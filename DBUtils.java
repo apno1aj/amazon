@@ -1,3 +1,1 @@
 This file contains DB script...
-
-This is new line added at 4:24PM on 16th March
